@@ -74,3 +74,26 @@ button {
     min-height: 40px;
     margin-top: 1px;
 }
+
+.container-2 {
+    background-color: yellow;
+}
+
+.random {
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.boxes {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+    background-color: white;
+    min-width: 150px;
+    min-height: 150px;
+    border-radius: 20px;
+}
