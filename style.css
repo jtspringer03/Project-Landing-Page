@@ -79,21 +79,24 @@ button {
     background-color: yellow;
 }
 
-.random {
-    background-color:aqua;
-    display: flex;
-    justify-content: center;
-}
-
-.boxes {
-    background-color: black;
+.div3 {
     display: flex;
     justify-content: space-around;
+    background-color:aqua;
 }
 
-.pic {
-    background-color: white;
-    min-width: 150px;
-    min-height: 150px;
-    border-radius: 20px;
+.random {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    font-size: 18px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
