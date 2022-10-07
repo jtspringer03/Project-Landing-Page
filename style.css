@@ -65,7 +65,7 @@ ul {
 }
 
 button {
-    background-color: blue;
+    background-color: #3882F6;
     color: white;
     font-size: 15px;
     font-weight: bolder;
@@ -140,4 +140,46 @@ img {
     color:#1F2937;
     font-weight: bold;
     padding-top: 0px;
+}
+
+.container-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.time {
+    display: flex;
+    align-items: center;
+    background-color: #3882F6;
+    gap: 200px;
+    width: 900px;
+    padding: 35px 60px 35px 60px;
+}
+
+.action {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.para4 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 18px;
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.buttonwhite {
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
 }
