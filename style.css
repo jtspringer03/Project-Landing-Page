@@ -117,3 +117,27 @@ img {
     border-color: blue;
     border-width: 3px;
 }
+
+.container-3 {
+    padding: 30px 150px 30px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    display: flex;
+    font-size: 36px;
+    width: 775px;
+}
+
+.thor {
+    width: 765px;
+    text-align: end;
+    font-size: 25px;
+    color:#1F2937;
+    font-weight: bold;
+    padding-top: 0px;
+}
