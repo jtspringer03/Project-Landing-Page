@@ -183,3 +183,14 @@ img {
     color: white;
     border-radius: 5px;
 }
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    font-size: 18px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
